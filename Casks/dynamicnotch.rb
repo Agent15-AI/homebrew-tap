@@ -1,6 +1,6 @@
 cask "dynamicnotch" do
-  version "0.1.0"
-  sha256 "b759bea6815cceea87e4f719031a1b1847d246271498a275bb25cc3baf0d5245"
+  version "0.1.1"
+  sha256 "7029fdcff6226278aad1b8b72b135264ee2da7076d344162293c4ba0e245078a"
 
   url "https://github.com/Agent15-AI/DynamicNotch/releases/download/v#{version}/DynamicNotch-#{version}.zip"
   name "DynamicNotch"
